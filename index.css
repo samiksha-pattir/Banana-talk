@@ -1,0 +1,81 @@
+body{
+    margin: auto;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    background-color: var(--primary);
+    text-align: center;
+    background-color: darkgoldenrod;
+
+}
+
+/* footer { */
+    /* max-width: var(--width-break);
+    margin: auto; */
+/* } */
+
+/* .about{
+    text-align: center;
+    background-color: darkgoldenrod;
+    /* padding: 1rem; */
+    
+/* } */ 
+
+.btn-translate{
+    background-color: darkgoldenrod;
+}
+
+
+textarea{
+    display: block;
+    margin: auto;
+}
+
+
+textarea{
+    width: 16cm;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    padding:1rem;
+
+}
+
+
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 16cm;
+    margin: auto;
+    display: block;
+    padding: 1rem;
+}
+
+
+.botm{
+    background-color:goldenrod;
+    padding: 1rem;
+    text-align: center;
+}
+
+button{
+
+    margin: auto;
+    width: 6cm;
+    padding-top:2rem;
+    background-color: darkgoldenrod;
+    border: none;
+    display: block;
+}
+
+
+.output{
+    display: block;
+    margin: auto;
+    width: 16cm;
+}
